@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="/home/nickapostol/Desktop/MyPdfProj/MyPdfGui/org.json-20120521.jar"/>
+	<classpathentry kind="lib" path="/home/nickapostol/Desktop/MyPdfProj/MyPdfGui/pdfbox-app-2.0.0-RC3.jar"/>
+	<classpathentry kind="lib" path="/home/nickapostol/Desktop/MyPdfProj/MyPdfGui/jlfgr-1_0.jar"/>
+	<classpathentry kind="lib" path="/home/nickapostol/Desktop/MyPdfProj/MyPdfGui/MyPdfLib.jar"/>
+	<!-- <classpathentry combineaccessrules="false" kind="src" path="/MyPdfLib"/> -->
+	<classpathentry kind="output" path="bin"/>
+</classpath>
